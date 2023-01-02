@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "420805100117",
+    "project_id": "unipal-final",
+    "storage_bucket": "unipal-final.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420805100117:android:31608f16354da1234bcadc",
+        "android_client_info": {
+          "package_name": "com.example.flutter_tinder_clone_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "420805100117-ter7do37rb8qu8nta5fc7fu95bo5414k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7QXW6yG1_hVr1AynixKv-K7N8k_LhWKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "420805100117-ter7do37rb8qu8nta5fc7fu95bo5414k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
